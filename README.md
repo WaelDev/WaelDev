@@ -19,5 +19,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
- <p><img src="https://komarev.com/ghpvc/?username=WaelDev&label=Total%20Profile%20Visitor&color=green&style=for-the-badge" alt="wael-mohamed" /><br>
+ <p><img src="https://komarev.com/ghpvc/?username=WaelDev&label=Total%20Profile%20Visitor&color=green&style=flat" alt="wael-mohamed" /><br>
 
